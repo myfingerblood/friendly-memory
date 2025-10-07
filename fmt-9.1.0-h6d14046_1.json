@@ -1,0 +1,64 @@
+{
+  "build": "h6d14046_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\fmt-9.1.0-h6d14046_1",
+  "files": [
+    "Library/bin/fmt.dll",
+    "Library/include/fmt/args.h",
+    "Library/include/fmt/chrono.h",
+    "Library/include/fmt/color.h",
+    "Library/include/fmt/compile.h",
+    "Library/include/fmt/core.h",
+    "Library/include/fmt/format-inl.h",
+    "Library/include/fmt/format.h",
+    "Library/include/fmt/os.h",
+    "Library/include/fmt/ostream.h",
+    "Library/include/fmt/printf.h",
+    "Library/include/fmt/ranges.h",
+    "Library/include/fmt/std.h",
+    "Library/include/fmt/xchar.h",
+    "Library/lib/cmake/fmt/fmt-config-version.cmake",
+    "Library/lib/cmake/fmt/fmt-config.cmake",
+    "Library/lib/cmake/fmt/fmt-targets-release.cmake",
+    "Library/lib/cmake/fmt/fmt-targets.cmake",
+    "Library/lib/fmt.lib",
+    "Library/lib/pkgconfig/fmt.pc",
+    ".nonadmin"
+  ],
+  "fn": "fmt-9.1.0-h6d14046_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\fmt-9.1.0-h6d14046_1",
+    "type": 1
+  },
+  "md5": "5a94a4f71da5367e14c2b97c93e4f740",
+  "name": "fmt",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\fmt-9.1.0-h6d14046_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/fmt.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_cd7_r7kkkb/croot/fmt_1714483857171/_h_env",
+        "sha256": "1e632cdde72e095b0a15672d6eb9e2f843fc4b52c4d1e3411fcaf28a5d59d896",
+        "sha256_in_prefix": "fca837e5e70b14992a96045e592633dac2054b3251a6e7a4a89712b38a277bee",
+        "size_in_bytes": 319
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::fmt==9.1.0=h6d14046_1[md5=5a94a4f71da5367e14c2b97c93e4f740]",
+  "sha256": "4029494fcada18e357c6d4f7685a490ec417d764e1c7e985da2d6e5ac9fba7a5",
+  "size": 204846,
+  "subdir": "win-64",
+  "timestamp": 1714484065000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/fmt-9.1.0-h6d14046_1.conda",
+  "version": "9.1.0"
+}
