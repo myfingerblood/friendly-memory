@@ -1,0 +1,59 @@
+{
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aom-3.6.0-hd77b12b_0",
+  "files": [
+    "Library/bin/aom.dll",
+    "Library/bin/aomdec.exe",
+    "Library/bin/aomenc.exe",
+    "Library/include/aom/aom.h",
+    "Library/include/aom/aom_codec.h",
+    "Library/include/aom/aom_decoder.h",
+    "Library/include/aom/aom_encoder.h",
+    "Library/include/aom/aom_external_partition.h",
+    "Library/include/aom/aom_frame_buffer.h",
+    "Library/include/aom/aom_image.h",
+    "Library/include/aom/aom_integer.h",
+    "Library/include/aom/aomcx.h",
+    "Library/include/aom/aomdx.h",
+    "Library/lib/aom.lib",
+    "Library/lib/pkgconfig/aom.pc",
+    ".nonadmin"
+  ],
+  "fn": "aom-3.6.0-hd77b12b_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aom-3.6.0-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "c115a61b2dfbe6f01a4024bc734476d7",
+  "name": "aom",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aom-3.6.0-hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/aom.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_2eg97mbhur/croot/aom_1688660425912/_h_env",
+        "sha256": "f7bd81691ee6b30a312f863c3f6bc7c03fffd534382542098094f039da779398",
+        "sha256_in_prefix": "1653be2b0b4ae5a1ddec3d2f24e98eca5d1a82ef385047097148368c00a5e6a1",
+        "size_in_bytes": 335
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aom==3.6.0=hd77b12b_0[md5=c115a61b2dfbe6f01a4024bc734476d7]",
+  "sha256": "6679d5f79c334d1bf836e56e1b94d4d8830b6128486a36cf308801944998b9bf",
+  "size": 9570821,
+  "subdir": "win-64",
+  "timestamp": 1688666342000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aom-3.6.0-hd77b12b_0.conda",
+  "version": "3.6.0"
+}
