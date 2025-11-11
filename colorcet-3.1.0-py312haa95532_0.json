@@ -1,0 +1,49 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\colorcet-3.1.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/colorcet-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/colorcet-3.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/colorcet/__init__.py",
+    "Lib/site-packages/colorcet/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/colorcet/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/colorcet/__pycache__/plotting.cpython-312.pyc",
+    "Lib/site-packages/colorcet/__pycache__/sineramp.cpython-312.pyc",
+    "Lib/site-packages/colorcet/_version.py",
+    "Lib/site-packages/colorcet/plotting.py",
+    "Lib/site-packages/colorcet/sineramp.py",
+    ".nonadmin"
+  ],
+  "fn": "colorcet-3.1.0-py312haa95532_0.conda",
+  "license": "CC-BY-4.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\colorcet-3.1.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "79d0fa9eae4b5cd31fea38ea49db0861",
+  "name": "colorcet",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\colorcet-3.1.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::colorcet==3.1.0=py312haa95532_0[md5=79d0fa9eae4b5cd31fea38ea49db0861]",
+  "sha256": "ddb4d08f2484b12887ef7f39f3711ab75f61f9f91cc33b5be1958e5b6814c350",
+  "size": 613292,
+  "subdir": "win-64",
+  "timestamp": 1709758664000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/colorcet-3.1.0-py312haa95532_0.conda",
+  "version": "3.1.0"
+}
