@@ -1,0 +1,61 @@
+{
+  "build": "h2bbff1b_7",
+  "build_number": 7,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cfitsio-3.470-h2bbff1b_7",
+  "files": [
+    "Library/bin/cfitsio.dll",
+    "Library/include/cfortran.h",
+    "Library/include/drvrgsiftp.h",
+    "Library/include/drvrsmem.h",
+    "Library/include/eval_defs.h",
+    "Library/include/eval_tab.h",
+    "Library/include/f77_wrap.h",
+    "Library/include/fitsio.h",
+    "Library/include/fitsio2.h",
+    "Library/include/fpack.h",
+    "Library/include/group.h",
+    "Library/include/grparser.h",
+    "Library/include/longnam.h",
+    "Library/include/region.h",
+    "Library/include/simplerng.h",
+    "Library/lib/cfitsio.lib",
+    "Library/lib/pkgconfig/cfitsio.pc",
+    ".nonadmin"
+  ],
+  "fn": "cfitsio-3.470-h2bbff1b_7.conda",
+  "license": "ISC",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cfitsio-3.470-h2bbff1b_7",
+    "type": 1
+  },
+  "md5": "889519e6e78352d8c91011e04b07293d",
+  "name": "cfitsio",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\cfitsio-3.470-h2bbff1b_7.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/cfitsio.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/ci/cfitsio_1655708947222/_h_env",
+        "sha256": "80e6ac25936b9048c5d62c0171782016598e0bd73aab07b823a4b0ce724350ec",
+        "sha256_in_prefix": "7cde4c283d715e1f147e4309f793cf1ea4dadf7e17d48a7e58fb7b8b5c93cee4",
+        "size_in_bytes": 360
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::cfitsio==3.470=h2bbff1b_7[md5=889519e6e78352d8c91011e04b07293d]",
+  "sha256": "bbf3d85b11758306fa8cb2b8a94044c50566a53a7162af979ecb6e043d4334ec",
+  "size": 530915,
+  "subdir": "win-64",
+  "timestamp": 1655709069000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/cfitsio-3.470-h2bbff1b_7.conda",
+  "version": "3.470"
+}
