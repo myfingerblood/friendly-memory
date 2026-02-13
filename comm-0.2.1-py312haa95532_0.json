@@ -1,0 +1,46 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "traitlets >=4"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\comm-0.2.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/comm-0.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/comm-0.2.1.dist-info/METADATA",
+    "Lib/site-packages/comm-0.2.1.dist-info/RECORD",
+    "Lib/site-packages/comm-0.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/comm-0.2.1.dist-info/WHEEL",
+    "Lib/site-packages/comm-0.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/comm-0.2.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/comm/__init__.py",
+    "Lib/site-packages/comm/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/comm/__pycache__/base_comm.cpython-312.pyc",
+    "Lib/site-packages/comm/base_comm.py",
+    "Lib/site-packages/comm/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "comm-0.2.1-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\comm-0.2.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "6aec13efd014738239b14006fffc12e9",
+  "name": "comm",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\comm-0.2.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::comm==0.2.1=py312haa95532_0[md5=6aec13efd014738239b14006fffc12e9]",
+  "sha256": "fbeae7e83ac7cdcdf6d6c9b3c48ea984050add7f18636cc6283568df3d40d3a7",
+  "size": 17698,
+  "subdir": "win-64",
+  "timestamp": 1709323208000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/comm-0.2.1-py312haa95532_0.conda",
+  "version": "0.2.1"
+}
