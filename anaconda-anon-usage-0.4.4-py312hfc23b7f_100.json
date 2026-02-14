@@ -1,0 +1,57 @@
+{
+  "build": "py312hfc23b7f_100",
+  "build_number": 100,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "conda >=23.7"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\anaconda-anon-usage-0.4.4-py312hfc23b7f_100",
+  "files": [
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/INSTALLER",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/LICENSE",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/METADATA",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/RECORD",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/REQUESTED",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/WHEEL",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/direct_url.json",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/entry_points.txt",
+    "Lib/site-packages/anaconda_anon_usage-0.4.4.dist-info/top_level.txt",
+    "Lib/site-packages/anaconda_anon_usage/__init__.py",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/install.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/patch.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/plugin.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/tokens.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/anaconda_anon_usage/_version.py",
+    "Lib/site-packages/anaconda_anon_usage/patch.py",
+    "Lib/site-packages/anaconda_anon_usage/plugin.py",
+    "Lib/site-packages/anaconda_anon_usage/tokens.py",
+    "Lib/site-packages/anaconda_anon_usage/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "anaconda-anon-usage-0.4.4-py312hfc23b7f_100.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\anaconda-anon-usage-0.4.4-py312hfc23b7f_100",
+    "type": 1
+  },
+  "md5": "7e01b4a1128bbbd94e4eacbf59129c05",
+  "name": "anaconda-anon-usage",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\anaconda-anon-usage-0.4.4-py312hfc23b7f_100.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::anaconda-anon-usage==0.4.4=py312hfc23b7f_100[md5=7e01b4a1128bbbd94e4eacbf59129c05]",
+  "sha256": "beace2be3b427064f6c7721adf7b1e1a8648dd719b190be5e1887c4babef0372",
+  "size": 29873,
+  "subdir": "win-64",
+  "timestamp": 1710965807000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/anaconda-anon-usage-0.4.4-py312hfc23b7f_100.conda",
+  "version": "0.4.4"
+}
